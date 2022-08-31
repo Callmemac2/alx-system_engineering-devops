@@ -1,2 +1,2 @@
 #!/bin/bash
-Documents Movies Pictures Downloads Library Music Public
+ls
